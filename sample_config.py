@@ -31,7 +31,7 @@ else:
     API_ID = 14782914
     API_HASH = "3aa2fabe1074632cf6e2b01da083a2c6"
     USERBOT_PREFIX = "."
-    PHONE_NUMBER = "+917604831545"  # Need for Userbot
+    SESSION_STRING =""
     SUDO_USERS_ID = [
         1930954213,
         1930954213,
