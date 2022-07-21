@@ -28,8 +28,8 @@ if HEROKU:
     PM_PERMIT = bool(int(environ.get("PM_PERMIT", None)))
 else:
     BOT_TOKEN = "5477183241:AAG6Ea9Nm2jsPqFl5VUq9t3buzSZVg20l5k"
-    API_ID = 14782914
-    API_HASH = "3aa2fabe1074632cf6e2b01da083a2c6"
+    API_ID = 16114442
+    API_HASH = "d95f572d863734eb0d000b8d7c8a77e1"
     USERBOT_PREFIX = "."
     PHONE_NUMBER = "+919944528420"
     SUDO_USERS_ID = [
