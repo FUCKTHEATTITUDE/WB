@@ -102,12 +102,7 @@ loop = asyncio.get_event_loop()
 loop.run_until_complete(load_sudoers())
 
 if not HEROKU:
-    app2 = Client(
-        "userbot",
-        phone_number=PHONE_NUMBER,
-        api_id=API_ID,
-        api_hash=API_HASH,
-    )
+    app2 = Client(SESSION_STRING, api_id=API_ID, api_hash=API_HASH)
 else:
     app2 = Client(SESSION_STRING, api_id=API_ID, api_hash=API_HASH)
 
