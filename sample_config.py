@@ -31,10 +31,10 @@ else:
     API_ID = 13191216
     API_HASH = "7d38e4760cb8717cd434e8f449d65b16"
     USERBOT_PREFIX = "."
-    SESSION_STRING ="BQB2tODQ2kwkDumoh1K-hUSF158y24uTn9fsQah2AdNUwYxXpHmzppkPpzzlJ0ToNQTeUGXgKgt1Hn0tb6DlmqmxTD_nx9UkpNC7cdUejKYM3XncNTgLQSPUGUZg9hJqunhBkXvh8pt0vajh6I9KOO0eMKmxvZNMaURez08t1etNaCzTT8Mq4RFzhur7qxMGBt66KfqklNrMP8oNQFciaNwmHv-N-zhksJf404i1Udax2MFl_Mk6ndPgwJgTDSCXb0Syx4qA_GG9oyLltkUoH_EbmOTkHA5dZxLM8AzTXgFtVonTstNbj73EySdMmN9zoNjT9k284d-wS3hV3l4k7roDAAAAAHaTQnQA"
-    PHONE_NUMBER = "+919095330555"
+    SESSION_STRING =""
+    PHONE_NUMBER = "+916381987933"
     SUDO_USERS_ID = [
-        1930954213,
+        5938516793,
         1930954213,
     ]  # Sudo users have full access to everything, don't trust anyone
     LOG_GROUP_ID = -1001657538863
