@@ -27,9 +27,9 @@ if HEROKU:
     RSS_DELAY = int(environ.get("RSS_DELAY", None))
     PM_PERMIT = bool(int(environ.get("PM_PERMIT", None)))
 else:
-    BOT_TOKEN = "5477183241:AAG6Ea9Nm2jsPqFl5VUq9t3buzSZVg20l5k"
-    API_ID = 16114442
-    API_HASH = "d95f572d863734eb0d000b8d7c8a77e1"
+    BOT_TOKEN = "5926143600:AAHcqLwRHwIQ1GKFjTlCrxRM75eCyaw8tns"
+    API_ID = 13191216
+    API_HASH = "7d38e4760cb8717cd434e8f449d65b16"
     USERBOT_PREFIX = "."
     SESSION_STRING ="BQB2tODQ2kwkDumoh1K-hUSF158y24uTn9fsQah2AdNUwYxXpHmzppkPpzzlJ0ToNQTeUGXgKgt1Hn0tb6DlmqmxTD_nx9UkpNC7cdUejKYM3XncNTgLQSPUGUZg9hJqunhBkXvh8pt0vajh6I9KOO0eMKmxvZNMaURez08t1etNaCzTT8Mq4RFzhur7qxMGBt66KfqklNrMP8oNQFciaNwmHv-N-zhksJf404i1Udax2MFl_Mk6ndPgwJgTDSCXb0Syx4qA_GG9oyLltkUoH_EbmOTkHA5dZxLM8AzTXgFtVonTstNbj73EySdMmN9zoNjT9k284d-wS3hV3l4k7roDAAAAAHaTQnQA"
     PHONE_NUMBER = "+919095330555"
@@ -37,11 +37,11 @@ else:
         1930954213,
         1930954213,
     ]  # Sudo users have full access to everything, don't trust anyone
-    LOG_GROUP_ID = -1001635517276
-    GBAN_LOG_GROUP_ID = -1001635517276
-    MESSAGE_DUMP_CHAT = -1001635517276
+    LOG_GROUP_ID = -1001657538863
+    GBAN_LOG_GROUP_ID = -1001657538863
+    MESSAGE_DUMP_CHAT = -1001657538863
     WELCOME_DELAY_KICK_SEC = 300
-    MONGO_URL = "mongodb+srv://Alanwalker:20092001@cluster0.nwbeo.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_URL = "mongodb+srv://ZAID:ZAID@cluster0.8smkd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     ARQ_API_KEY = "JGAGCN-IRAJKY-PTPEXD-FCDGHX-ARQ"
     ARQ_API_URL = "https://arq.hamker.in"
     LOG_MENTIONS = True
