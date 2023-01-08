@@ -27,12 +27,12 @@ if HEROKU:
     RSS_DELAY = int(environ.get("RSS_DELAY", None))
     PM_PERMIT = bool(int(environ.get("PM_PERMIT", None)))
 else:
-    BOT_TOKEN = "5926143600:AAHcqLwRHwIQ1GKFjTlCrxRM75eCyaw8tns"
+    BOT_TOKEN = "5165959972:AAEXWdylwty0pVDz6X_8hZw1NL8EqTfNByk"
     API_ID = 13191216
     API_HASH = "7d38e4760cb8717cd434e8f449d65b16"
     USERBOT_PREFIX = "."
     SESSION_STRING =""
-    PHONE_NUMBER = "+916381987933"
+    PHONE_NUMBER = "+919095330555"
     SUDO_USERS_ID = [
         5938516793,
         1930954213,
